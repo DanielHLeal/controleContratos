@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\bin\Debug\net6.0\GerenciarContratos.Helpers.deps.json
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\bin\Debug\net6.0\GerenciarContratos.Helpers.dll
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\bin\Debug\net6.0\GerenciarContratos.Helpers.pdb
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\GerenciarContratos.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\GerenciarContratos.Helpers.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\GerenciarContratos.Helpers.AssemblyInfo.cs
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\GerenciarContratos.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\GerenciarContratos.Helpers.dll
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\refint\GerenciarContratos.Helpers.dll
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\GerenciarContratos.Helpers.pdb
+C:\Users\danie\source\repos\GerenciarContratos\GerenciarContratos.Helpers\obj\Debug\net6.0\ref\GerenciarContratos.Helpers.dll

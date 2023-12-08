@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GerenciarContratos.Aplication\GerenciarContratos.Aplication.csproj" />
+    <ProjectReference Include="..\GerenciarContratos.Data\GerenciarContratos.Data.csproj" />
+    <ProjectReference Include="..\GerenciarContratos.Helpers\GerenciarContratos.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>
